@@ -1,6 +1,6 @@
-<h3>#DreamBuy Dream Buy Online Shop Server!</h3>
+<h3># Dream Buy Online Shop Server!</h3>
 
-<p>#Locally server running setup</p>
+<p># Locally server running setup</p>
 
 git clone <repository-url>
 
